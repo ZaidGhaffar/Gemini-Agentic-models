@@ -5,7 +5,7 @@ Working with python without using any framework is much more effective than usin
 ## Features
 
 - Asynchronous web crawling using [Crawl4AI](https://pypi.org/project/Crawl4AI/)
-- Data extraction powered by a language model (LLM)
+- [Building Effective Agents](https://www.anthropic.com/research/building-effective-agents) - Anthropic's blog post
 - CSV export of extracted venue information
 - Modular and easy-to-follow code structure ideal for beginners
 

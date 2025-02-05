@@ -1,2 +1,9 @@
 google-generativeai
-pyton-dotenv
+python-dotenv
+pydantic
+faiss-cpu 
+langchain
+transformers
+torch
+pypdf
+langchain-community
